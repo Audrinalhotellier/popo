@@ -1,4 +1,4 @@
-@media all and (min-width: 300px) and (max-width: 767px) {
+@media only screen and (max-width: 767px) {
     nav {
 		margin-top: 55px;
         display: flex;
