@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 300px) {
     nav {
 		margin-top: 55px;
         display: flex;
