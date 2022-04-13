@@ -1,4 +1,4 @@
-@media screen and (max-width: 300px) {
+@media only screen and (max-width: 767px) {
     h2 {
         animation: apparition 1s ease 0s 1 normal forwards;
     }
